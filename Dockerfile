@@ -1,4 +1,5 @@
 FROM python:3
+RUN pip install public-ip
 RUN pip install django==3.2
 
 COPY . .
