@@ -57,3 +57,5 @@ docs/_build/
 target/
 
 .DS_Store
+
+.git/config.back
